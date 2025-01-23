@@ -23,14 +23,6 @@ int main () {
     //cin>>Javohir;
     //for (int i=1; i<=Javohir; ++i)
        //cout<<setw(5)<<i<<setw(5)<<i*i<<endl;
-    //Problem 5
-    string input;
-    cout<<"`Please enter a string:";
-    cin>>input;
-    int a;
-    a=input.length();
-    int width=50;
-    int gap=(width-a)/2;
-    cout<<setw(gap)<<input<<setw(gap)<<endl;
+
 
 }
